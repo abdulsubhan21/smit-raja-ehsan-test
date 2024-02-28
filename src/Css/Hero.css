@@ -1,0 +1,26 @@
+.main-title {
+    font-weight: 700;
+    font-size: 120px;
+    line-height: 100px;
+    text-align: center;
+    text-wrap: wrap;
+}
+
+.hero-page {
+    background-color: #1a1a1a;
+    width: 100%;
+    height: 90vh;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.info{   
+    display: flex;
+    align-items: center;
+    width: 500px;
+    justify-content: space-between;
+    margin: 20px;
+}
